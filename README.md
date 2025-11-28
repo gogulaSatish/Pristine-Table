@@ -1,0 +1,11 @@
+- Open **`index.html`** in your browser, and enjoy !
+
+# Used libraries
+
+- JavaScript
+- CSS
+- Bootstrap5
+- Bootstrap-icons
+- Swiper
+- Isotope
+- Animate.css
